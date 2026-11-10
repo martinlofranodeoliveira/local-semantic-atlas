@@ -1,0 +1,37 @@
+{
+  "tokenizers": {
+    "version": "0.23.3",
+    "official_source": "https://files.pythonhosted.org/packages/e0/7c/2cabb2174e772636683008f2c5621949b645da7d303c596589e84516a184/tokenizers-0.23.3.tar.gz",
+    "sha256": "cded33237c77caeef62944d32aa9a7ef42bdce2b3497e18d137e072a8c4be438",
+    "retained_files": [
+      {
+        "path": "dependency-notices/tokenizers-0.23.3/upstream-source/tokenizers/Cargo.toml",
+        "bytes": 2763,
+        "sha256": "89a917cebfbbad09833ab156b4e4f265935e565524483736be7cf62fbd85803b"
+      },
+      {
+        "path": "dependency-notices/tokenizers-0.23.3/upstream-source/tokenizers/LICENSE",
+        "bytes": 11357,
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+      },
+      {
+        "path": "dependency-notices/tokenizers-0.23.3/upstream-source/bindings/python/Cargo.toml",
+        "bytes": 1181,
+        "sha256": "73742bbc57f890b2765fa5d9c02341f14f01d38f5c294781c404aad183a3f4ca"
+      },
+      {
+        "path": "dependency-notices/tokenizers-0.23.3/upstream-source/bindings/python/Cargo.lock",
+        "bytes": 36178,
+        "sha256": "afcedf7f2ebe008b068d7afd25e77f7d9d8e433c24153bc35a1eb5611083ee5b"
+      }
+    ]
+  },
+  "flatbuffers": {
+    "version": "25.12.19",
+    "wheel_declared_upstream": "https://github.com/google/flatbuffers",
+    "version_release_ref_probe": "https://api.github.com/repos/google/flatbuffers/git/ref/tags/v25.12.19",
+    "probe_result": "HTTP404; no version-matched source/license relationship inferred",
+    "status": "full license text/provenance mapping pending"
+  },
+  "license_scope": "Do not infer full compiled Rust closure from top-level source license. Actual native dependency licensing still requires closure review before final distribution."
+}

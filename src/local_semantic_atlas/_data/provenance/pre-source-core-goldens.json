@@ -1,0 +1,70 @@
+{
+  "scope": "Pre-source independent mathematical examples, not a model quality benchmark",
+  "dimension": 384,
+  "masked_pooling": {
+    "nonzero_hidden_vectors": [
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        100,
+        200
+      ]
+    ],
+    "mask": [
+      1,
+      1,
+      0
+    ],
+    "mean_first_two": [
+      2,
+      3
+    ],
+    "normalized_first_two": [
+      0.5547001962252291,
+      0.8320502943378437
+    ],
+    "other382coordinates": 0
+  },
+  "cosine_tie": {
+    "query_nonzero_first_two": [
+      0.7071067811865475,
+      0.7071067811865475
+    ],
+    "documents": [
+      {
+        "id": "a",
+        "nonzero_first_two": [
+          1,
+          0
+        ]
+      },
+      {
+        "id": "b",
+        "nonzero_first_two": [
+          0,
+          1
+        ]
+      }
+    ],
+    "expected_order": [
+      "a",
+      "b"
+    ],
+    "expected_scores": [
+      0.7071067811865475,
+      0.7071067811865475
+    ]
+  },
+  "all_zero_vector": "reject incomplete/invalid-model-output, never fabricate relevance score",
+  "all_padding_mask": "reject; never division by zero",
+  "wrong_dimension": "reject; approvedmodel384 only",
+  "nonfinite": "reject atmodeloutputboundary",
+  "actual_bilingual_inference": "native-v2.json/cold-wheel-consumer-v2.json frozenbeforeprojectsource; literal synthetic3query expectedtopIDs0,1,2 only",
+  "created_at": "2026-11-10T03:56:36.945802+00:00"
+}

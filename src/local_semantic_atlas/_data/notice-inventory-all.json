@@ -1,0 +1,1880 @@
+{
+  "scope": "actual runtime/source/backend notices, conservative crates include nonlinked packages, not a linkgraph or legal certification",
+  "files": [
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/autocommand-2.2.2.dist-info/LICENSE",
+      "bytes": 7634,
+      "sha256": "ade78d04982d69972d444a8e14a94f87a2334dd3855cc80348ea8e240aa0df2d"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/backports.tarfile-1.2.0.dist-info/LICENSE",
+      "bytes": 1023,
+      "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/licenses/LICENSE",
+      "bytes": 10278,
+      "sha256": "458502e12d97bbf64438606a20044aa85eb05fb0a8a807bb35dbec253fd1fc04"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/jaraco.text-4.0.0.dist-info/LICENSE",
+      "bytes": 1023,
+      "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/jaraco_context-6.1.0.dist-info/licenses/LICENSE",
+      "bytes": 1076,
+      "sha256": "9755a18519666e5f0f4cae3daad3d7012bcae48a600b31237d75e9fe134e6683"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/jaraco_functools-4.4.0.dist-info/licenses/LICENSE",
+      "bytes": 1076,
+      "sha256": "5a57cb4db85e2a2dd88c290628908add57e3451449e0a9a71fdfb38776fd759d"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/more_itertools-10.8.0.dist-info/licenses/LICENSE",
+      "bytes": 1053,
+      "sha256": "09f1c8c9e941af3e584d59641ea9b87d83c0cb0fd007eb5ef391a7e2643c1a46"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/packaging/licenses/__init__.py",
+      "bytes": 7859,
+      "sha256": "590d12eee73ddbec53b4e9ee5bfc64d9cb3aacb4940e8ebcba260757ce56740b"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/packaging/licenses/_spdx.py",
+      "bytes": 51122,
+      "sha256": "596ec35e2ca0ebcba9fd8343ff0a51625af548786257815f24b41f7e08613314"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/packaging-26.3.dist-info/licenses/LICENSE",
+      "bytes": 197,
+      "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/packaging-26.3.dist-info/licenses/LICENSE.APACHE",
+      "bytes": 10174,
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/packaging-26.3.dist-info/licenses/LICENSE.BSD",
+      "bytes": 1344,
+      "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/platformdirs-4.4.0.dist-info/licenses/LICENSE",
+      "bytes": 1089,
+      "sha256": "29e0fd62e929850e86eb28c3fdccf0cefdf4fa94879011cffb3d0d4bed6d4db6"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/tomli-2.4.0.dist-info/licenses/LICENSE",
+      "bytes": 1072,
+      "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/wheel-0.46.3.dist-info/licenses/LICENSE.txt",
+      "bytes": 1107,
+      "sha256": "30c23618679108f3e8ea1d2a658c7ca417bdfc891c98ef1a89fa4ff0c9828654"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/_vendor/zipp-3.23.0.dist-info/licenses/LICENSE",
+      "bytes": 1076,
+      "sha256": "5a57cb4db85e2a2dd88c290628908add57e3451449e0a9a71fdfb38776fd759d"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/config/NOTICE",
+      "bytes": 493,
+      "sha256": "2dddf08818297a3b89d43d95ff659d8da85741108c9136dfa3a4d856c0623bd8"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools/config/_validate_pyproject/NOTICE",
+      "bytes": 18737,
+      "sha256": "09c9bcea95ca086f8bc5bed174e40bc835b297d40fb5f86bbbb570fe0a5581a7"
+    },
+    {
+      "path": "notices/build-backends/setuptools/setuptools-84.2.1.dist-info/licenses/LICENSE",
+      "bytes": 1023,
+      "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+    },
+    {
+      "path": "notices/build-backends/wheel/wheel-0.48.0.dist-info/licenses/LICENSE.txt",
+      "bytes": 1107,
+      "sha256": "30c23618679108f3e8ea1d2a658c7ca417bdfc891c98ef1a89fa4ff0c9828654"
+    },
+    {
+      "path": "notices/runtime-and-source/PyYAML-6.0.3/pyyaml-6.0.3.dist-info/licenses/LICENSE",
+      "bytes": 1101,
+      "sha256": "8d3928f9dc4490fd635707cb88eb26bd764102a7282954307d3e5167a577e8a4"
+    },
+    {
+      "path": "notices/runtime-and-source/anyio-4.16.0/anyio-4.16.0.dist-info/licenses/LICENSE",
+      "bytes": 1081,
+      "sha256": "5361ac9dc58f2ef5fd2e9b09c68297c17f04950909bbc8023bdb82eacf22c2b0"
+    },
+    {
+      "path": "notices/runtime-and-source/build-1.6.1/build-1.6.1.dist-info/licenses/LICENSE",
+      "bytes": 1113,
+      "sha256": "aaf9a29ca5907971ccf07de025375db34539a8d5eeebce20b46099805722106f"
+    },
+    {
+      "path": "notices/runtime-and-source/click-8.5.1/click-8.5.1.dist-info/licenses/LICENSE.txt",
+      "bytes": 1475,
+      "sha256": "9a8ad106a394e853bfe21f42f4e72d592819a22805d991b5f3275029292b658d"
+    },
+    {
+      "path": "notices/runtime-and-source/filelock-4.2.10/filelock-4.2.10.dist-info/licenses/LICENSE",
+      "bytes": 1088,
+      "sha256": "608c89d5060ae9921adccf3236695bc654a9946e12323ef6c021dfa04e294d48"
+    },
+    {
+      "path": "notices/runtime-and-source/flatbuffers-25.12.19/Apache-2.0-official-terms.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "notices/runtime-and-source/fsspec-2026.9.0/fsspec-2026.9.0.dist-info/licenses/LICENSE",
+      "bytes": 1513,
+      "sha256": "2dc35496ce53a7307915c008a844aad53e772b49b34cdd00445067691407ec94"
+    },
+    {
+      "path": "notices/runtime-and-source/h11-0.16.0/h11-0.16.0.dist-info/licenses/LICENSE.txt",
+      "bytes": 1124,
+      "sha256": "37db5bb85926db28a427a25867f10b1232003aea1be69ccb851138adb8e6f361"
+    },
+    {
+      "path": "notices/runtime-and-source/hf-xet-1.8.0/hf_xet-1.8.0.dist-info/licenses/LICENSE",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "notices/runtime-and-source/httpcore2-2.16.0/httpcore2-2.16.0.dist-info/licenses/LICENSE.md",
+      "bytes": 1599,
+      "sha256": "c4df125c807b0613501e943a5c92496dd11d2c16604ce396097a8dde396304d9"
+    },
+    {
+      "path": "notices/runtime-and-source/httpx2-2.16.0/httpx2-2.16.0.dist-info/licenses/LICENSE.md",
+      "bytes": 1589,
+      "sha256": "7e7d6dbaf7fe160d39fd6e84fd02c33cab96bcbea34d36998d545bceb4a19c30"
+    },
+    {
+      "path": "notices/runtime-and-source/huggingface_hub-2.4.0/huggingface_hub-2.4.0.dist-info/licenses/LICENSE",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "notices/runtime-and-source/idna-3.20/idna-3.20.dist-info/licenses/LICENSE.md",
+      "bytes": 1541,
+      "sha256": "1a9a4f0e3d479a27240ddd59a9137a66ab4a0f9dfdc8ca6188cc0bfd85187f04"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy/_core/include/numpy/random/LICENSE.txt",
+      "bytes": 1018,
+      "sha256": "fbc539f47d0cf83bc61378080fb873d5c14630126cacbfe754035c3926daa5ec"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy/ma/LICENSE",
+      "bytes": 1593,
+      "sha256": "05f3b88351988ecfad10abe92c0c50e5875c6452d5009a0084cc291551ffcca6"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy/random/LICENSE.md",
+      "bytes": 3511,
+      "sha256": "103166b62b80443afb9eb3488e052ea06be0cff566b908f199e561fde49af19f"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/LICENSE.txt",
+      "bytes": 46794,
+      "sha256": "4860083caa0de2ac3292ca98bd074bd8f45d8b32624e37b1e70a240bff61e488"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "bytes": 1018,
+      "sha256": "fbc539f47d0cf83bc61378080fb873d5c14630126cacbfe754035c3926daa5ec"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "bytes": 690,
+      "sha256": "3f2c1ffa76383a55ae0aac01c9737cd70050dff63e1f026694fbe9d662573c98"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+      "bytes": 20785,
+      "sha256": "e340270d4f64384569a91d546acb5b094d69ce47f0c015db77abb74dc6f815af"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "bytes": 1414,
+      "sha256": "f7b14309e5f54e5022b26448eefd419988ada2aec01d3c1162d84a0ea8f21f2c"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+      "bytes": 1514,
+      "sha256": "211e7d737d6179a08f791ebb0a99897ce7cd2457410c542876d125576edfe910"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "bytes": 1543,
+      "sha256": "c17011467b4fe6e20fbfbeda4df09e58c2bca5480a063e55735a4000a379aad9"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
+      "bytes": 1498,
+      "sha256": "a85ca13fdf90160b64a0698215868c13b74d835ad0a4e2ba44713b8c5058a056"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "bytes": 2266,
+      "sha256": "a14cc25e10d40a3aa705b7de2fb764a6535d8ee9b2db4e1724900585457dfd55"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/ma/LICENSE",
+      "bytes": 1593,
+      "sha256": "05f3b88351988ecfad10abe92c0c50e5875c6452d5009a0084cc291551ffcca6"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/random/LICENSE.md",
+      "bytes": 3511,
+      "sha256": "103166b62b80443afb9eb3488e052ea06be0cff566b908f199e561fde49af19f"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
+      "bytes": 2745,
+      "sha256": "469778be8f33d54e1bcaab28c281cc472916d2d273f835e55bc487d30503face"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
+      "bytes": 2926,
+      "sha256": "0e111337b25494a773106695f0e799f642b8567aaacca4f116a74a8177179156"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
+      "bytes": 1154,
+      "sha256": "e7d4f4fb20358f314210a892ae17351e04993813646f697ec387385ca2a36918"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
+      "bytes": 1509,
+      "sha256": "6f5828a57223d4cc7f8ea505a2623e7b978b242752c1515e355f46ba2cec1800"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
+      "bytes": 1226,
+      "sha256": "9d4098846018319cd68e228ee6220361787f73bccbf00237a85e4fc9621b998f"
+    },
+    {
+      "path": "notices/runtime-and-source/numpy-2.5.4/numpy-2.5.4.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
+      "bytes": 332,
+      "sha256": "268b0ca06759d31ea3ca68dd35f20e877916e927b1c2a835e4592a3c4354b1f9"
+    },
+    {
+      "path": "notices/runtime-and-source/onnxruntime-1.31.1/onnxruntime/LICENSE",
+      "bytes": 1073,
+      "sha256": "2f07c72751aed99790b8a4869cf2311df85a860b22ded05fa22803587a48922c"
+    },
+    {
+      "path": "notices/runtime-and-source/onnxruntime-1.31.1/onnxruntime/ThirdPartyNotices.txt",
+      "bytes": 338088,
+      "sha256": "143764b952fdb1a7c69ce653bfba74a7744d6a8a573bfb73e235fba356c83de3"
+    },
+    {
+      "path": "notices/runtime-and-source/packaging-26.3/packaging/licenses/__init__.py",
+      "bytes": 7859,
+      "sha256": "590d12eee73ddbec53b4e9ee5bfc64d9cb3aacb4940e8ebcba260757ce56740b"
+    },
+    {
+      "path": "notices/runtime-and-source/packaging-26.3/packaging/licenses/_spdx.py",
+      "bytes": 51122,
+      "sha256": "596ec35e2ca0ebcba9fd8343ff0a51625af548786257815f24b41f7e08613314"
+    },
+    {
+      "path": "notices/runtime-and-source/packaging-26.3/packaging-26.3.dist-info/licenses/LICENSE",
+      "bytes": 197,
+      "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+    },
+    {
+      "path": "notices/runtime-and-source/packaging-26.3/packaging-26.3.dist-info/licenses/LICENSE.APACHE",
+      "bytes": 10174,
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "path": "notices/runtime-and-source/packaging-26.3/packaging-26.3.dist-info/licenses/LICENSE.BSD",
+      "bytes": 1344,
+      "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+    },
+    {
+      "path": "notices/runtime-and-source/protobuf-7.36.2/protobuf-7.36.2.dist-info/LICENSE",
+      "bytes": 1732,
+      "sha256": "6e5e117324afd944dcf67f36cf329843bc1a92229a8cd9bb573d7a83130fea7d"
+    },
+    {
+      "path": "notices/runtime-and-source/pyproject_hooks-1.3.3/pyproject_hooks-1.3.3.dist-info/licenses/LICENSE",
+      "bytes": 1081,
+      "sha256": "1b22b049b5267d6dfc23a67bf4a84d8ec04b9fdfb1a51d360e42b4342c8b4154"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/ahash-0.8.12/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/ahash-0.8.12/LICENSE-MIT",
+      "bytes": 1057,
+      "sha256": "0444c6991eead6822f7b9102e654448d51624431119546492e8b231db42c48bb"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/aho-corasick-1.1.5/COPYING",
+      "bytes": 126,
+      "sha256": "01c266bced4a434da0051174d6bee16a4c82cf634e2679b6155d40d75012390f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/aho-corasick-1.1.5/LICENSE-MIT",
+      "bytes": 1081,
+      "sha256": "0f96a83840e146e43c0ec96a22ec1f392e0680e6c1226e6f3ba87e0740af850f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/aho-corasick-1.1.5/UNLICENSE",
+      "bytes": 1211,
+      "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/anstream-1.0.0/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/anstream-1.0.0/LICENSE-MIT",
+      "bytes": 1062,
+      "sha256": "6efb0476a1cc085077ed49357026d8c173bf33017278ef440f222fb9cbcb66e6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/anstyle-1.0.14/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/anstyle-1.0.14/LICENSE-MIT",
+      "bytes": 1062,
+      "sha256": "6efb0476a1cc085077ed49357026d8c173bf33017278ef440f222fb9cbcb66e6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/anstyle-parse-1.0.0/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/anstyle-parse-1.0.0/LICENSE-MIT",
+      "bytes": 1062,
+      "sha256": "6efb0476a1cc085077ed49357026d8c173bf33017278ef440f222fb9cbcb66e6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/anstyle-query-1.1.5/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/anstyle-query-1.1.5/LICENSE-MIT",
+      "bytes": 1062,
+      "sha256": "6efb0476a1cc085077ed49357026d8c173bf33017278ef440f222fb9cbcb66e6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/anstyle-wincon-3.0.11/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/anstyle-wincon-3.0.11/LICENSE-MIT",
+      "bytes": 1062,
+      "sha256": "6efb0476a1cc085077ed49357026d8c173bf33017278ef440f222fb9cbcb66e6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/autocfg-1.5.1/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/autocfg-1.5.1/LICENSE-MIT",
+      "bytes": 1054,
+      "sha256": "27995d58ad5c1145c1a8cd86244ce844886958a35eb2b78c6b772748669999ac"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/base64-0.13.1/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/base64-0.13.1/LICENSE-MIT",
+      "bytes": 1076,
+      "sha256": "0dd882e53de11566d50f8e8e2d5a651bcf3fabee4987d70f306233cf39094ba7"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/bitflags-1.3.2/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/bitflags-1.3.2/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/bitflags-2.13.1/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/bitflags-2.13.1/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/bumpalo-3.20.3/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/bumpalo-3.20.3/LICENSE-MIT",
+      "bytes": 1059,
+      "sha256": "65f94e99ddaf4f5d1782a6dae23f35d4293a9a01444a13135a6887017d353cee"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/castaway-0.2.4/LICENSE",
+      "bytes": 1075,
+      "sha256": "f98e09091d5ae02b2f2ec1ead4f7f28c4c44d1cb98b078739ba67091637e170c"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/cc-1.4.4/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/cc-1.4.4/LICENSE-MIT",
+      "bytes": 1057,
+      "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/cfg-if-1.0.4/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/cfg-if-1.0.4/LICENSE-MIT",
+      "bytes": 1057,
+      "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/colorchoice-1.0.5/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/colorchoice-1.0.5/LICENSE-MIT",
+      "bytes": 1062,
+      "sha256": "6efb0476a1cc085077ed49357026d8c173bf33017278ef440f222fb9cbcb66e6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/compact_str-0.9.1/LICENSE",
+      "bytes": 1073,
+      "sha256": "0d52feec79589df30138dad3800323fe5686b764b73347330a2dfef8ac83efe8"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/console-0.16.4/LICENSE",
+      "bytes": 1112,
+      "sha256": "2022c11b24fc1e50fa06a5959e40198a3464f560729ad3d00139abb8a328362d"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/crossbeam-deque-0.8.7/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/crossbeam-deque-0.8.7/LICENSE-MIT",
+      "bytes": 1099,
+      "sha256": "5734ed989dfca1f625b40281ee9f4530f91b2411ec01cb748223e7eb87e201ab"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/crossbeam-epoch-0.9.20/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/crossbeam-epoch-0.9.20/LICENSE-MIT",
+      "bytes": 1099,
+      "sha256": "5734ed989dfca1f625b40281ee9f4530f91b2411ec01cb748223e7eb87e201ab"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/crossbeam-utils-0.8.22/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/crossbeam-utils-0.8.22/LICENSE-MIT",
+      "bytes": 1099,
+      "sha256": "5734ed989dfca1f625b40281ee9f4530f91b2411ec01cb748223e7eb87e201ab"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/daachorse-3.0.3/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/daachorse-3.0.3/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/darling-0.20.11/LICENSE",
+      "bytes": 1067,
+      "sha256": "8ea93490d74a5a1b1af3ff71d786271b3f1e5f0bea79ac16e02ec533cef040d6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/darling_core-0.20.11/LICENSE",
+      "bytes": 1067,
+      "sha256": "8ea93490d74a5a1b1af3ff71d786271b3f1e5f0bea79ac16e02ec533cef040d6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/darling_macro-0.20.11/LICENSE",
+      "bytes": 1067,
+      "sha256": "8ea93490d74a5a1b1af3ff71d786271b3f1e5f0bea79ac16e02ec533cef040d6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/dary_heap-0.3.9/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/dary_heap-0.3.9/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/defmt-1.1.1/LICENSE-APACHE",
+      "bytes": 10850,
+      "sha256": "8173d5c29b4f956d532781d2b86e4e30f83e6b7878dce18c919451d6ba707c90"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/defmt-1.1.1/LICENSE-MIT",
+      "bytes": 1053,
+      "sha256": "2710a622a896bba67356913d4d0492cab5465f61b2ecce6d880aeb483834fb50"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/defmt-macros-1.1.1/LICENSE-APACHE",
+      "bytes": 10850,
+      "sha256": "8173d5c29b4f956d532781d2b86e4e30f83e6b7878dce18c919451d6ba707c90"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/defmt-macros-1.1.1/LICENSE-MIT",
+      "bytes": 1053,
+      "sha256": "2710a622a896bba67356913d4d0492cab5465f61b2ecce6d880aeb483834fb50"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/derive_builder-0.20.2/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/derive_builder-0.20.2/LICENSE-MIT",
+      "bytes": 1099,
+      "sha256": "8c9612877aacfa1b42f5e80b679e6c3c93a7ba2bb99dfaf6e87e200dca4b4e6c"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/derive_builder_core-0.20.2/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/derive_builder_core-0.20.2/LICENSE-MIT",
+      "bytes": 1099,
+      "sha256": "8c9612877aacfa1b42f5e80b679e6c3c93a7ba2bb99dfaf6e87e200dca4b4e6c"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/derive_builder_macro-0.20.2/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/derive_builder_macro-0.20.2/LICENSE-MIT",
+      "bytes": 1099,
+      "sha256": "8c9612877aacfa1b42f5e80b679e6c3c93a7ba2bb99dfaf6e87e200dca4b4e6c"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/either-1.18.0/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/either-1.18.0/LICENSE-MIT",
+      "bytes": 1043,
+      "sha256": "7576269ea71f767b99297934c0b2367532690f8c4badc695edf8e04ab6a1e545"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/encode_unicode-1.0.0/AUTHORS.md",
+      "bytes": 74,
+      "sha256": "f2cf336738ad935a482a799be004083ddd07c904513caf80f9e48011888fe1b6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/encode_unicode-1.0.0/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/encode_unicode-1.0.0/LICENSE-MIT",
+      "bytes": 1022,
+      "sha256": "da23be69ad3ccf7a5823d62152efcd2b15de9482a5014fcb1b02844662d86abd"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/env_filter-2.0.0/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/env_filter-2.0.0/LICENSE-MIT",
+      "bytes": 1062,
+      "sha256": "6efb0476a1cc085077ed49357026d8c173bf33017278ef440f222fb9cbcb66e6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/env_logger-0.11.11/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/env_logger-0.11.11/LICENSE-MIT",
+      "bytes": 1062,
+      "sha256": "6efb0476a1cc085077ed49357026d8c173bf33017278ef440f222fb9cbcb66e6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/errno-0.3.14/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/errno-0.3.14/LICENSE-MIT",
+      "bytes": 1054,
+      "sha256": "8764a597675778ddfd4e25f81b08a05dbcf089ac05662df7613fe67f150e3aa2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/esaxx-rs-0.1.10/LICENSE",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/fastrand-2.5.0/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/fastrand-2.5.0/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/find-msvc-tools-0.1.11/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/find-msvc-tools-0.1.11/LICENSE-MIT",
+      "bytes": 1057,
+      "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/fnv-1.0.7/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/fnv-1.0.7/LICENSE-MIT",
+      "bytes": 1056,
+      "sha256": "65fdb6c76cd61612070c066eec9ecdb30ee74fb27859d0d9af58b9f499fd0c3e"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/futures-channel-0.3.34/LICENSE-APACHE",
+      "bytes": 10874,
+      "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/futures-channel-0.3.34/LICENSE-MIT",
+      "bytes": 1094,
+      "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/futures-core-0.3.34/LICENSE-APACHE",
+      "bytes": 10874,
+      "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/futures-core-0.3.34/LICENSE-MIT",
+      "bytes": 1094,
+      "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/futures-macro-0.3.34/LICENSE-APACHE",
+      "bytes": 10874,
+      "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/futures-macro-0.3.34/LICENSE-MIT",
+      "bytes": 1094,
+      "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/futures-task-0.3.34/LICENSE-APACHE",
+      "bytes": 10874,
+      "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/futures-task-0.3.34/LICENSE-MIT",
+      "bytes": 1094,
+      "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/futures-util-0.3.34/LICENSE-APACHE",
+      "bytes": 10874,
+      "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/futures-util-0.3.34/LICENSE-MIT",
+      "bytes": 1094,
+      "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/getrandom-0.3.4/LICENSE-APACHE",
+      "bytes": 10849,
+      "sha256": "aaff376532ea30a0cd5330b9502ad4a4c8bf769c539c87ffe78819d188a18ebf"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/getrandom-0.3.4/LICENSE-MIT",
+      "bytes": 1130,
+      "sha256": "29e9fe5074bd27e0e5d5d110394fbbcd841baee2651a3c4b4560a632702cede4"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/getrandom-0.4.3/LICENSE-APACHE",
+      "bytes": 10849,
+      "sha256": "aaff376532ea30a0cd5330b9502ad4a4c8bf769c539c87ffe78819d188a18ebf"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/getrandom-0.4.3/LICENSE-MIT",
+      "bytes": 1130,
+      "sha256": "523a42c25d245dde9c015f882cec7f4555aad883382a6cf19b4b7d9b2cd5419b"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/heck-0.5.0/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/heck-0.5.0/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "7b63ecd5f1902af1b63729947373683c32745c16a10e8e6292e2e2dcd7e90ae0"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/ident_case-1.0.1/LICENSE",
+      "bytes": 1036,
+      "sha256": "508a77d2e7b51d98adeed32648ad124b7b30241a8e70b2e72c99f92d8e5874d1"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/indicatif-0.18.6/LICENSE",
+      "bytes": 1112,
+      "sha256": "2022c11b24fc1e50fa06a5959e40198a3464f560729ad3d00139abb8a328362d"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/is_terminal_polyfill-1.70.2/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/is_terminal_polyfill-1.70.2/LICENSE-MIT",
+      "bytes": 1062,
+      "sha256": "6efb0476a1cc085077ed49357026d8c173bf33017278ef440f222fb9cbcb66e6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/itertools-0.14.0/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/itertools-0.14.0/LICENSE-MIT",
+      "bytes": 1043,
+      "sha256": "7576269ea71f767b99297934c0b2367532690f8c4badc695edf8e04ab6a1e545"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/itoa-1.0.18/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/itoa-1.0.18/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/jiff-0.2.35/COPYING",
+      "bytes": 126,
+      "sha256": "01c266bced4a434da0051174d6bee16a4c82cf634e2679b6155d40d75012390f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/jiff-0.2.35/LICENSE-MIT",
+      "bytes": 1081,
+      "sha256": "0f96a83840e146e43c0ec96a22ec1f392e0680e6c1226e6f3ba87e0740af850f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/jiff-0.2.35/UNLICENSE",
+      "bytes": 1211,
+      "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/jiff-core-0.1.0/COPYING",
+      "bytes": 126,
+      "sha256": "01c266bced4a434da0051174d6bee16a4c82cf634e2679b6155d40d75012390f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/jiff-core-0.1.0/LICENSE-MIT",
+      "bytes": 1081,
+      "sha256": "0f96a83840e146e43c0ec96a22ec1f392e0680e6c1226e6f3ba87e0740af850f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/jiff-core-0.1.0/UNLICENSE",
+      "bytes": 1211,
+      "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/jiff-static-0.2.35/COPYING",
+      "bytes": 126,
+      "sha256": "01c266bced4a434da0051174d6bee16a4c82cf634e2679b6155d40d75012390f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/jiff-static-0.2.35/LICENSE-MIT",
+      "bytes": 1081,
+      "sha256": "0f96a83840e146e43c0ec96a22ec1f392e0680e6c1226e6f3ba87e0740af850f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/jiff-static-0.2.35/UNLICENSE",
+      "bytes": 1211,
+      "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/js-sys-0.3.104/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/js-sys-0.3.104/LICENSE-MIT",
+      "bytes": 1057,
+      "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/libc-0.2.189/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/libc-0.2.189/LICENSE-MIT",
+      "bytes": 1066,
+      "sha256": "123a331b5dbf04c30097fa43b8f858bc85df671fe776de498d01f3d6b7c1f69e"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/linux-raw-sys-0.12.1/COPYRIGHT",
+      "bytes": 881,
+      "sha256": "3290ae0fbc9ddb77d2239121d710f0bb9d31b3b4744e6d97fe01e652b4c1870b"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/linux-raw-sys-0.12.1/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/linux-raw-sys-0.12.1/LICENSE-Apache-2.0_WITH_LLVM-exception",
+      "bytes": 12243,
+      "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/linux-raw-sys-0.12.1/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/log-0.4.34/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/log-0.4.34/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/macro_rules_attribute-0.2.3/LICENSE-APACHE",
+      "bytes": 11385,
+      "sha256": "388e98b08de12ba8a9d4575883c8b0386c747cea188ed459380fc58d60da15c9"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/macro_rules_attribute-0.2.3/LICENSE-MIT",
+      "bytes": 1112,
+      "sha256": "603fb27ef3266ea516872eefd9ae587746b8c34614a35c0fb24e4e9e0c17e137"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/macro_rules_attribute-0.2.3/LICENSE-ZLIB",
+      "bytes": 899,
+      "sha256": "1c41c0e19caa2c20b0adfeb8219b606b21b7c63914aa3ae74ae3e091d7ce09ca"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/macro_rules_attribute-proc_macro-0.2.3/LICENSE-APACHE",
+      "bytes": 11385,
+      "sha256": "388e98b08de12ba8a9d4575883c8b0386c747cea188ed459380fc58d60da15c9"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/macro_rules_attribute-proc_macro-0.2.3/LICENSE-MIT",
+      "bytes": 1112,
+      "sha256": "603fb27ef3266ea516872eefd9ae587746b8c34614a35c0fb24e4e9e0c17e137"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/macro_rules_attribute-proc_macro-0.2.3/LICENSE-ZLIB",
+      "bytes": 899,
+      "sha256": "1c41c0e19caa2c20b0adfeb8219b606b21b7c63914aa3ae74ae3e091d7ce09ca"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/matrixmultiply-0.3.11/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/matrixmultiply-0.3.11/LICENSE-MIT",
+      "bytes": 1159,
+      "sha256": "792d075c7bad6dac258a44e799eb64cbf465e24d9932d27669be08c5ec957e27"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/memchr-2.8.3/COPYING",
+      "bytes": 126,
+      "sha256": "01c266bced4a434da0051174d6bee16a4c82cf634e2679b6155d40d75012390f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/memchr-2.8.3/LICENSE-MIT",
+      "bytes": 1081,
+      "sha256": "0f96a83840e146e43c0ec96a22ec1f392e0680e6c1226e6f3ba87e0740af850f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/memchr-2.8.3/UNLICENSE",
+      "bytes": 1211,
+      "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/minimal-lexical-0.2.1/LICENSE-APACHE",
+      "bytes": 10850,
+      "sha256": "8173d5c29b4f956d532781d2b86e4e30f83e6b7878dce18c919451d6ba707c90"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/minimal-lexical-0.2.1/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/minimal-lexical-0.2.1/LICENSE.md",
+      "bytes": 2003,
+      "sha256": "dbe1fff0fb1314b6af94f161511406275cf01c5a32441fbf24528a57a051d599"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/mio-1.2.3/LICENSE",
+      "bytes": 1082,
+      "sha256": "07919255c7e04793d8ea760d6c2ce32d19f9ff02bdbdde3ce90b1e1880929a9b"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/monostate-0.1.18/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/monostate-0.1.18/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/monostate-impl-0.1.18/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/monostate-impl-0.1.18/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/ndarray-0.16.1/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/ndarray-0.16.1/LICENSE-MIT",
+      "bytes": 1119,
+      "sha256": "1fd6747d2c8e80f9fa766f57c5888864774621deb85cc2838ccaed727db32d45"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/ndarray-0.17.2/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/ndarray-0.17.2/LICENSE-MIT",
+      "bytes": 1119,
+      "sha256": "1fd6747d2c8e80f9fa766f57c5888864774621deb85cc2838ccaed727db32d45"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/nom-7.1.3/LICENSE",
+      "bytes": 1065,
+      "sha256": "4dbda04344456f09a7a588140455413a9ac59b6b26a1ef7cdf9c800c012d87f0"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/num-complex-0.4.6/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/num-complex-0.4.6/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/num-integer-0.1.47/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/num-integer-0.1.47/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/num-traits-0.2.19/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/num-traits-0.2.19/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/numpy-0.29.0/LICENSE",
+      "bytes": 1321,
+      "sha256": "57088c28c5ea50e729a06c3b04de70c41e496a5b753d75a744e2abbf60a2448f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/once_cell-1.21.4/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/once_cell-1.21.4/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/once_cell_polyfill-1.70.2/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/once_cell_polyfill-1.70.2/LICENSE-MIT",
+      "bytes": 1062,
+      "sha256": "6efb0476a1cc085077ed49357026d8c173bf33017278ef440f222fb9cbcb66e6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/onig-6.5.3/LICENSE.md",
+      "bytes": 1456,
+      "sha256": "e9c1238c5beb73c6cc130160418968058b21d486a7a445f0ceff27d51fbfdc44"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/onig_sys-69.9.3/LICENSE.md",
+      "bytes": 1511,
+      "sha256": "71f321038b088358004bee991635ac09e4c703bec467d3c30c06992c0595f189"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/onig_sys-69.9.3/oniguruma/AUTHORS",
+      "bytes": 32,
+      "sha256": "172a2a72c080d3067969599308c91385af86fdeb2419f8ad687883ca5a8ff912"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/onig_sys-69.9.3/oniguruma/COPYING",
+      "bytes": 1340,
+      "sha256": "70ba5469ea0bab6e18a32d7009068f996503168d27be57747e08da34337ff26f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/paste-1.0.15/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/paste-1.0.15/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pastey-0.2.3/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pastey-0.2.3/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pin-project-lite-0.2.17/LICENSE-APACHE",
+      "bytes": 10174,
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pin-project-lite-0.2.17/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pkg-config-0.3.34/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pkg-config-0.3.34/LICENSE-MIT",
+      "bytes": 1057,
+      "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/portable-atomic-1.15.0/LICENSE-APACHE",
+      "bytes": 10174,
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/portable-atomic-1.15.0/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/portable-atomic-util-0.2.7/LICENSE-APACHE",
+      "bytes": 10174,
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/portable-atomic-util-0.2.7/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/ppv-lite86-0.2.21/LICENSE-APACHE",
+      "bytes": 10854,
+      "sha256": "0218327e7a480793ffdd4eb792379a9709e5c135c7ba267f709d6f6d4d70af0a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/ppv-lite86-0.2.21/LICENSE-MIT",
+      "bytes": 1076,
+      "sha256": "4cada0bd02ea3692eee6f16400d86c6508bbd3bafb2b65fed0419f36d4f83e8f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/proc-macro2-1.0.107/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/proc-macro2-1.0.107/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pyo3-0.29.2/LICENSE-APACHE",
+      "bytes": 9807,
+      "sha256": "32c76dbe0e73d79100d5ece77c158399f2e2541bc5c78548a4ba45c1cb53c5c9"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pyo3-0.29.2/LICENSE-MIT",
+      "bytes": 1107,
+      "sha256": "afcbe3b2e6b37172b5a9ca869ee4c0b8cdc09316e5d4384864154482c33e5af6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pyo3-0.29.2/pyo3-runtime/LICENSE-APACHE",
+      "bytes": 9807,
+      "sha256": "32c76dbe0e73d79100d5ece77c158399f2e2541bc5c78548a4ba45c1cb53c5c9"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pyo3-0.29.2/pyo3-runtime/LICENSE-MIT",
+      "bytes": 1107,
+      "sha256": "afcbe3b2e6b37172b5a9ca869ee4c0b8cdc09316e5d4384864154482c33e5af6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pyo3-async-runtimes-0.29.0/LICENSE",
+      "bytes": 10781,
+      "sha256": "71073d492e996de196dbe1eb1e4c94c27c014c841b288161265b2efd06d0af28"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pyo3-build-config-0.29.2/LICENSE-APACHE",
+      "bytes": 9807,
+      "sha256": "32c76dbe0e73d79100d5ece77c158399f2e2541bc5c78548a4ba45c1cb53c5c9"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pyo3-build-config-0.29.2/LICENSE-MIT",
+      "bytes": 1107,
+      "sha256": "afcbe3b2e6b37172b5a9ca869ee4c0b8cdc09316e5d4384864154482c33e5af6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pyo3-ffi-0.29.2/LICENSE-APACHE",
+      "bytes": 9807,
+      "sha256": "32c76dbe0e73d79100d5ece77c158399f2e2541bc5c78548a4ba45c1cb53c5c9"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pyo3-ffi-0.29.2/LICENSE-MIT",
+      "bytes": 1107,
+      "sha256": "afcbe3b2e6b37172b5a9ca869ee4c0b8cdc09316e5d4384864154482c33e5af6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pyo3-macros-0.29.2/LICENSE-APACHE",
+      "bytes": 9807,
+      "sha256": "32c76dbe0e73d79100d5ece77c158399f2e2541bc5c78548a4ba45c1cb53c5c9"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pyo3-macros-0.29.2/LICENSE-MIT",
+      "bytes": 1107,
+      "sha256": "afcbe3b2e6b37172b5a9ca869ee4c0b8cdc09316e5d4384864154482c33e5af6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pyo3-macros-backend-0.29.2/LICENSE-APACHE",
+      "bytes": 9807,
+      "sha256": "32c76dbe0e73d79100d5ece77c158399f2e2541bc5c78548a4ba45c1cb53c5c9"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/pyo3-macros-backend-0.29.2/LICENSE-MIT",
+      "bytes": 1107,
+      "sha256": "afcbe3b2e6b37172b5a9ca869ee4c0b8cdc09316e5d4384864154482c33e5af6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/quote-1.0.47/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/quote-1.0.47/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/r-efi-5.3.0/AUTHORS",
+      "bytes": 3693,
+      "sha256": "ff92bed461f50338dd703a9ba9aee496a425957873df1d91192776e4bdf5dda7"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/r-efi-6.0.0/AUTHORS",
+      "bytes": 3733,
+      "sha256": "d027e91dbc9cdbb2f1190068e498bd6b61cff022b6a032b191021ba658d96111"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rand-0.9.5/COPYRIGHT",
+      "bytes": 569,
+      "sha256": "90eb64f0279b0d9432accfa6023ff803bc4965212383697eee27a0f426d5f8d5"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rand-0.9.5/LICENSE-APACHE",
+      "bytes": 9724,
+      "sha256": "35242e7a83f69875e6edeff02291e688c97caafe2f8902e4e19b49d3e78b4cab"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rand-0.9.5/LICENSE-MIT",
+      "bytes": 1117,
+      "sha256": "209fbbe0ad52d9235e37badf9cadfe4dbdc87203179c0899e738b39ade42177b"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rand_chacha-0.9.0/COPYRIGHT",
+      "bytes": 569,
+      "sha256": "90eb64f0279b0d9432accfa6023ff803bc4965212383697eee27a0f426d5f8d5"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rand_chacha-0.9.0/LICENSE-APACHE",
+      "bytes": 9724,
+      "sha256": "35242e7a83f69875e6edeff02291e688c97caafe2f8902e4e19b49d3e78b4cab"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rand_chacha-0.9.0/LICENSE-MIT",
+      "bytes": 1117,
+      "sha256": "209fbbe0ad52d9235e37badf9cadfe4dbdc87203179c0899e738b39ade42177b"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rand_core-0.9.5/COPYRIGHT",
+      "bytes": 569,
+      "sha256": "90eb64f0279b0d9432accfa6023ff803bc4965212383697eee27a0f426d5f8d5"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rand_core-0.9.5/LICENSE-APACHE",
+      "bytes": 10282,
+      "sha256": "6df43f6f4b5d4587f3d8d71e45532c688fd168afa5fe89d571cb32fa09c4ef51"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rand_core-0.9.5/LICENSE-MIT",
+      "bytes": 1117,
+      "sha256": "209fbbe0ad52d9235e37badf9cadfe4dbdc87203179c0899e738b39ade42177b"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rawpointer-0.2.1/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rawpointer-0.2.1/LICENSE-MIT",
+      "bytes": 1043,
+      "sha256": "7576269ea71f767b99297934c0b2367532690f8c4badc695edf8e04ab6a1e545"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rayon-1.12.0/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rayon-1.12.0/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "0621878e61f0d0fda054bcbe02df75192c28bde1ecc8289cbd86aeba2dd72720"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rayon-cond-0.4.0/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rayon-cond-0.4.0/LICENSE-MIT",
+      "bytes": 1054,
+      "sha256": "27995d58ad5c1145c1a8cd86244ce844886958a35eb2b78c6b772748669999ac"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rayon-core-1.13.0/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rayon-core-1.13.0/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "0621878e61f0d0fda054bcbe02df75192c28bde1ecc8289cbd86aeba2dd72720"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/regex-1.13.1/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/regex-1.13.1/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/regex-automata-0.4.18/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/regex-automata-0.4.18/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/regex-syntax-0.8.11/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/regex-syntax-0.8.11/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/regex-syntax-0.8.11/src/unicode_tables/LICENSE-UNICODE",
+      "bytes": 2847,
+      "sha256": "74db5baf44a41b1000312c673544b3374e4198af5605c7f9080a402cec42cfa3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rustc-hash-2.1.3/LICENSE-APACHE",
+      "bytes": 9722,
+      "sha256": "95bd3988beee069fa2848f648dab43cc6e0b2add2ad6bcb17360caf749802bcc"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rustc-hash-2.1.3/LICENSE-MIT",
+      "bytes": 1022,
+      "sha256": "30fefc3a7d6a0041541858293bcbea2dde4caa4c0a5802f996a7f7e8c0085652"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rustix-1.1.4/COPYRIGHT",
+      "bytes": 853,
+      "sha256": "377c2e7c53250cc5905c0b0532d35973392af16ffb9596a41d99d202cf3617c9"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rustix-1.1.4/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rustix-1.1.4/LICENSE-Apache-2.0_WITH_LLVM-exception",
+      "bytes": 12243,
+      "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rustix-1.1.4/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rustversion-1.0.23/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/rustversion-1.0.23/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/ryu-1.0.23/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/ryu-1.0.23/LICENSE-BOOST",
+      "bytes": 1338,
+      "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/serde-1.0.229/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/serde-1.0.229/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/serde_core-1.0.229/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/serde_core-1.0.229/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/serde_derive-1.0.229/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/serde_derive-1.0.229/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/serde_json-1.0.151/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/serde_json-1.0.151/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/shlex-2.0.1/LICENSE-APACHE",
+      "bytes": 566,
+      "sha256": "553fffcd9b1cb158bc3e9edc35da85ca5c3b3d7d2e61c883ebcfa8a65814b583"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/shlex-2.0.1/LICENSE-MIT",
+      "bytes": 1092,
+      "sha256": "4455bf75a91154108304cb283e0fea9948c14f13e20d60887cf2552449dea3b1"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/signal-hook-registry-1.4.8/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/signal-hook-registry-1.4.8/LICENSE-MIT",
+      "bytes": 1068,
+      "sha256": "503558bfefe66ca15e4e3f7955b3cb0ec87fd52f29bf24b336af7bd00e946d5c"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/slab-0.4.12/LICENSE",
+      "bytes": 1055,
+      "sha256": "8ce0830173fdac609dfb4ea603fdc002c2f4af0dc9b1a005653f5da9cf534b18"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/smallvec-1.16.0/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/smallvec-1.16.0/LICENSE-MIT",
+      "bytes": 1072,
+      "sha256": "0b28172679e0009b655da42797c03fd163a3379d5cfa67ba1f1655e974a2a1a9"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/spm_precompiled-0.1.4/LICENSE",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/static_assertions-1.1.0/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/static_assertions-1.1.0/LICENSE-MIT",
+      "bytes": 1072,
+      "sha256": "ea084a2373ebc1f0902c09266e7bf25a05ab3814c1805bb017ffa7308f90c061"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/strsim-0.11.1/LICENSE",
+      "bytes": 1166,
+      "sha256": "1e697ce8d21401fbf1bddd9b5c3fd4c4c79ae1e3bdf51f81761c85e11d5a89cd"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/syn-2.0.119/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/syn-2.0.119/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/syn-3.0.4/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/syn-3.0.4/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/target-lexicon-0.13.5/LICENSE",
+      "bytes": 12243,
+      "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/tempfile-3.27.0/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/tempfile-3.27.0/LICENSE-MIT",
+      "bytes": 1056,
+      "sha256": "8b427f5bc501764575e52ba4f9d95673cf8f6d80a86d0d06599852e1a9a20a36"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/thiserror-2.0.20/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/thiserror-2.0.20/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/thiserror-impl-2.0.20/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/thiserror-impl-2.0.20/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/tokio-1.53.1/LICENSE",
+      "bytes": 1070,
+      "sha256": "253cd04c6714889df2d32f3f64d669179a1c95c76ac43c40882c52eb06bc3552"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/tokio-macros-2.7.2/LICENSE",
+      "bytes": 1102,
+      "sha256": "0b83dc40cba89b9922bb84b0a9c7d2768ce37c1d7e138b7424fd4549915778c9"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode-ident-1.0.24/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode-ident-1.0.24/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode-ident-1.0.24/LICENSE-UNICODE",
+      "bytes": 1995,
+      "sha256": "f7db81051789b729fea528a63ec4c938fdcb93d9d61d97dc8cc2e9df6d47f2a1"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode-normalization-alignments-0.1.12/COPYRIGHT",
+      "bytes": 321,
+      "sha256": "23860c2a7b5d96b21569afedf033469bab9fe14a1b24a35068b8641c578ce24d"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode-normalization-alignments-0.1.12/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode-normalization-alignments-0.1.12/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "7b63ecd5f1902af1b63729947373683c32745c16a10e8e6292e2e2dcd7e90ae0"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode-segmentation-1.13.3/COPYRIGHT",
+      "bytes": 321,
+      "sha256": "23860c2a7b5d96b21569afedf033469bab9fe14a1b24a35068b8641c578ce24d"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode-segmentation-1.13.3/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode-segmentation-1.13.3/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "7b63ecd5f1902af1b63729947373683c32745c16a10e8e6292e2e2dcd7e90ae0"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode-width-0.2.2/COPYRIGHT",
+      "bytes": 321,
+      "sha256": "23860c2a7b5d96b21569afedf033469bab9fe14a1b24a35068b8641c578ce24d"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode-width-0.2.2/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode-width-0.2.2/LICENSE-MIT",
+      "bytes": 1071,
+      "sha256": "7b63ecd5f1902af1b63729947373683c32745c16a10e8e6292e2e2dcd7e90ae0"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode_categories-0.1.1/LICENSE-APACHE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unicode_categories-0.1.1/LICENSE-MIT",
+      "bytes": 1077,
+      "sha256": "98a817e7b85e5fe4e79d165c656a4a139793b8b643d0f3d9cbcc3538ef82ec82"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/unit-prefix-0.5.2/LICENSE",
+      "bytes": 1087,
+      "sha256": "b39b7556926992260c18201e59f9478217ed593602099546581b4092a4b9e10e"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/utf8parse-0.2.2/LICENSE-APACHE",
+      "bytes": 9723,
+      "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/utf8parse-0.2.2/LICENSE-MIT",
+      "bytes": 1052,
+      "sha256": "e4c9b06fa850cb9b540a5e400e9f6394cf15efcf4098144de477d1d3dae10150"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/version_check-0.9.5/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/version_check-0.9.5/LICENSE-MIT",
+      "bytes": 1085,
+      "sha256": "b7e650f3fce5c53249d1cdc608b54df156a97edd636cf9d23498d0cfe7aec63e"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasi-0.11.1+wasi-snapshot-preview1/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasi-0.11.1+wasi-snapshot-preview1/LICENSE-Apache-2.0_WITH_LLVM-exception",
+      "bytes": 12243,
+      "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasi-0.11.1+wasi-snapshot-preview1/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasip2-1.0.4+wasi-0.2.12/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasip2-1.0.4+wasi-0.2.12/LICENSE-Apache-2.0_WITH_LLVM-exception",
+      "bytes": 12243,
+      "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasip2-1.0.4+wasi-0.2.12/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasm-bindgen-0.2.127/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasm-bindgen-0.2.127/LICENSE-MIT",
+      "bytes": 1057,
+      "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasm-bindgen-macro-0.2.127/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasm-bindgen-macro-0.2.127/LICENSE-MIT",
+      "bytes": 1057,
+      "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasm-bindgen-macro-support-0.2.127/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasm-bindgen-macro-support-0.2.127/LICENSE-MIT",
+      "bytes": 1057,
+      "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasm-bindgen-shared-0.2.127/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wasm-bindgen-shared-0.2.127/LICENSE-MIT",
+      "bytes": 1057,
+      "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/web-time-1.1.0/LICENSE-APACHE",
+      "bytes": 11338,
+      "sha256": "54a744942eb3fa63a74d8d359989ed6962c04f3f10ff20cfa08ff8aa7efbe4e6"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/web-time-1.1.0/LICENSE-MIT",
+      "bytes": 1065,
+      "sha256": "f428305bbf2e70fbd807af0f3c7ac1b7acfb95311640f451e9d2e48db6d7e96b"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/windows-link-0.2.1/license-apache-2.0",
+      "bytes": 11351,
+      "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/windows-link-0.2.1/license-mit",
+      "bytes": 1141,
+      "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/windows-sys-0.61.2/license-apache-2.0",
+      "bytes": 11351,
+      "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/windows-sys-0.61.2/license-mit",
+      "bytes": 1141,
+      "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/windows-sys-0.61.2/src/Windows/Win32/Security/LicenseProtection/mod.rs",
+      "bytes": 883,
+      "sha256": "a48ff77be5dd144f696440880d34a8b4d9ac89f6c2a31cf45fe9cfa137f14a7f"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wit-bindgen-0.57.1/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wit-bindgen-0.57.1/LICENSE-Apache-2.0_WITH_LLVM-exception",
+      "bytes": 12243,
+      "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/wit-bindgen-0.57.1/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/zerocopy-0.8.56/LICENSE-APACHE",
+      "bytes": 11350,
+      "sha256": "9d185ac6703c4b0453974c0d85e9eee43e6941009296bb1f5eb0b54e2329e9f3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/zerocopy-0.8.56/LICENSE-BSD",
+      "bytes": 1275,
+      "sha256": "83c1763356e822adde0a2cae748d938a73fdc263849ccff6b27776dff213bd32"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/zerocopy-0.8.56/LICENSE-MIT",
+      "bytes": 1060,
+      "sha256": "1a2f5c12ddc934d58956aa5dbdd3255fe55fd957633ab7d0d39e4f0daa73f7df"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/zerocopy-derive-0.8.56/LICENSE-APACHE",
+      "bytes": 11350,
+      "sha256": "9d185ac6703c4b0453974c0d85e9eee43e6941009296bb1f5eb0b54e2329e9f3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/zerocopy-derive-0.8.56/LICENSE-BSD",
+      "bytes": 1275,
+      "sha256": "83c1763356e822adde0a2cae748d938a73fdc263849ccff6b27776dff213bd32"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/zerocopy-derive-0.8.56/LICENSE-MIT",
+      "bytes": 1060,
+      "sha256": "1a2f5c12ddc934d58956aa5dbdd3255fe55fd957633ab7d0d39e4f0daa73f7df"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizer-rust-conservative-closure/zmij-1.0.23/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizers-0.23.3/upstream-source/bindings/python/Cargo.lock",
+      "bytes": 36178,
+      "sha256": "afcedf7f2ebe008b068d7afd25e77f7d9d8e433c24153bc35a1eb5611083ee5b"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizers-0.23.3/upstream-source/bindings/python/Cargo.toml",
+      "bytes": 1181,
+      "sha256": "73742bbc57f890b2765fa5d9c02341f14f01d38f5c294781c404aad183a3f4ca"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizers-0.23.3/upstream-source/tokenizers/Cargo.toml",
+      "bytes": 2763,
+      "sha256": "89a917cebfbbad09833ab156b4e4f265935e565524483736be7cf62fbd85803b"
+    },
+    {
+      "path": "notices/runtime-and-source/tokenizers-0.23.3/upstream-source/tokenizers/LICENSE",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "notices/runtime-and-source/tqdm-4.70.1/tqdm-4.70.1.dist-info/licenses/LICENCE",
+      "bytes": 1985,
+      "sha256": "fcff87c3a47ce8028a8512aa182d4fcf0ad1c90544ee75cf9b343684cac194de"
+    },
+    {
+      "path": "notices/runtime-and-source/truststore-0.10.5/truststore-0.10.5.dist-info/licenses/LICENSE",
+      "bytes": 1086,
+      "sha256": "33be7b7e8fa4fd19b1760e1a8ed8a668bdab852c91b692dd41424bcb725a9fca"
+    },
+    {
+      "path": "notices/runtime-and-source/typing_extensions-4.16.0/typing_extensions-4.16.0.dist-info/licenses/LICENSE",
+      "bytes": 13936,
+      "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf"
+    }
+  ]
+}

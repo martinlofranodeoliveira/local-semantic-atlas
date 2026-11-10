@@ -1,0 +1,114 @@
+{
+  "argv": [
+    "docker",
+    "run",
+    "--rm",
+    "--network",
+    "none",
+    "--read-only",
+    "--cap-drop",
+    "ALL",
+    "--security-opt",
+    "no-new-privileges",
+    "--pids-limit",
+    "256",
+    "--memory",
+    "1g",
+    "--cpus",
+    "2",
+    "--user",
+    "1000:1000",
+    "--tmpfs",
+    "/tmp:rw,noexec,nosuid,nodev,size=64m,uid=1000,gid=1000",
+    "sha256:e0ed33f1a97d7b4db3c837a08303b1e29e6bef1d4bfcbad1c0e50e68c2721830",
+    "python",
+    "-c",
+    "s=open('/opt/qualification/probe.py').read();old=\"Tokenizer.from_file(str(root / 'tokenizer.json'))\";assert old in s;s=s.replace(old,\"Tokenizer.from_str((root / 'tokenizer.json').read_bytes().decode('utf-8'))\");exec(s)"
+  ],
+  "exit_code": 0,
+  "network_enabled": false,
+  "host_bind_mounts": [],
+  "read_only": true,
+  "result": {
+    "status": "PASS",
+    "scope": "local native pre-source qualification, not a retrieval benchmark",
+    "python": "3.13.18",
+    "architecture": "x86_64",
+    "versions": {
+      "onnxruntime": "1.31.1",
+      "tokenizers": "0.23.3",
+      "numpy": "2.5.4"
+    },
+    "onnx_telemetry_disabled_before_session": true,
+    "providers": [
+      "CPUExecutionProvider"
+    ],
+    "model_sha256": "dd476dd0c2514e9b9be83aeb3853fac0763e0bdf4a71645407587d77c48a2d88",
+    "inputs": [
+      {
+        "name": "input_ids",
+        "type": "tensor(int64)",
+        "shape": [
+          "batch_size",
+          "sequence_length"
+        ]
+      },
+      {
+        "name": "attention_mask",
+        "type": "tensor(int64)",
+        "shape": [
+          "batch_size",
+          "sequence_length"
+        ]
+      },
+      {
+        "name": "token_type_ids",
+        "type": "tensor(int64)",
+        "shape": [
+          "batch_size",
+          "sequence_length"
+        ]
+      }
+    ],
+    "output_shape": [
+      6,
+      37,
+      384
+    ],
+    "selected_token_lengths": [
+      19,
+      14,
+      14,
+      37,
+      27,
+      35
+    ],
+    "literal_synthetic_top_documents": [
+      0,
+      1,
+      2
+    ],
+    "synthetic_scores": [
+      [
+        0.8747082751873574,
+        0.7464857562080085,
+        0.72572505441662
+      ],
+      [
+        0.7497489130907998,
+        0.8563162360661654,
+        0.7608234580204514
+      ],
+      [
+        0.7643695861811908,
+        0.7544585984043972,
+        0.8810473972544421
+      ]
+    ],
+    "independent_scalar_pooling_max_error_bound": 1e-10,
+    "peak_rss_kib": 731032,
+    "no_network_required": true,
+    "not_a_general_quality_or_portability_claim": true
+  },
+  "scope": "Actual tokenizer from_str uses owned verified UTF8JSON snapshot, avoiding hash-check then path-reopen"
+}

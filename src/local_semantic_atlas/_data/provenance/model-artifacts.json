@@ -1,0 +1,51 @@
+{
+  "model": "intfloat/multilingual-e5-small",
+  "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "license": "mit",
+  "selected_variant": "upstream ONNX qint8 avx512_vnni; actual portable CPU/runtime support not yet qualified",
+  "files": [
+    {
+      "upstream_path": "onnx/model_qint8_avx512_vnni.onnx",
+      "url": "https://huggingface.co/intfloat/multilingual-e5-small/resolve/614241f622f53c4eeff9890bdc4f31cfecc418b3/onnx/model_qint8_avx512_vnni.onnx",
+      "bytes": 118346824,
+      "sha256": "dd476dd0c2514e9b9be83aeb3853fac0763e0bdf4a71645407587d77c48a2d88",
+      "upstream_lfs_sha_verified": true
+    },
+    {
+      "upstream_path": "onnx/tokenizer.json",
+      "url": "https://huggingface.co/intfloat/multilingual-e5-small/resolve/614241f622f53c4eeff9890bdc4f31cfecc418b3/onnx/tokenizer.json",
+      "bytes": 17082730,
+      "sha256": "0b44a9d7b51c3c62626640cda0e2c2f70fdacdc25bbbd68038369d14ebdf4c39",
+      "upstream_lfs_sha_verified": true
+    },
+    {
+      "upstream_path": "onnx/config.json",
+      "url": "https://huggingface.co/intfloat/multilingual-e5-small/resolve/614241f622f53c4eeff9890bdc4f31cfecc418b3/onnx/config.json",
+      "bytes": 653,
+      "sha256": "bbb7c1333fc4b3e27fbc9cd5d2070aabcc1d4dfb99917c3633e772f97545a6b6",
+      "upstream_lfs_sha_verified": false
+    },
+    {
+      "upstream_path": "onnx/tokenizer_config.json",
+      "url": "https://huggingface.co/intfloat/multilingual-e5-small/resolve/614241f622f53c4eeff9890bdc4f31cfecc418b3/onnx/tokenizer_config.json",
+      "bytes": 443,
+      "sha256": "a1d6bc8734a6f635dc158508bef000f8e2e5a759c7d92f984b2c86e5ff53425b",
+      "upstream_lfs_sha_verified": false
+    },
+    {
+      "upstream_path": "onnx/special_tokens_map.json",
+      "url": "https://huggingface.co/intfloat/multilingual-e5-small/resolve/614241f622f53c4eeff9890bdc4f31cfecc418b3/onnx/special_tokens_map.json",
+      "bytes": 167,
+      "sha256": "d05497f1da52c5e09554c0cd874037a083e1dc1b9cfd48034d1c717f1afc07a7",
+      "upstream_lfs_sha_verified": false
+    },
+    {
+      "upstream_path": "README.md",
+      "url": "https://huggingface.co/intfloat/multilingual-e5-small/resolve/614241f622f53c4eeff9890bdc4f31cfecc418b3/README.md",
+      "bytes": 497538,
+      "sha256": "0038de97aee16258cecbad7ffda4b4febd6953e747a00e0ddbc8e6ed241e9c1c",
+      "upstream_lfs_sha_verified": false
+    }
+  ],
+  "status": "download hashes verified; not inference qualification"
+}

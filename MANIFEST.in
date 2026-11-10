@@ -1,0 +1,12 @@
+include LICENSE README.md NOTICE.md DESIGN.md PRODUCT.md CONTRIBUTING.md SECURITY.md
+include pyproject.toml requirements-runtime.lock requirements-dev.lock model-artifacts.json
+include Dockerfile Dockerfile.prepare .dockerignore .gitignore
+recursive-include src *.py *.json *.md *.txt LICENSE* COPYING* COPYRIGHT* NOTICE* Cargo.lock Cargo.toml
+graft src/local_semantic_atlas/_data
+graft tests
+graft qualification
+graft docs
+graft examples
+graft scripts
+graft .github
+global-exclude *.pyc __pycache__ *.whl *.onnx

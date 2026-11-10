@@ -1,0 +1,10 @@
+{
+  "package": "flatbuffers",
+  "version": "25.12.19",
+  "declared_license": "Apache 2.0",
+  "copyright_and_license_reference_from_actual_wheel": "# Copyright 2014 Google Inc. All rights reserved.\n#\n# Licensed under the Apache License, Version 2.0 (the \"License\");\n# you may not use this file except in compliance with the License.\n# You may obtain a copy of the License at\n#\n#     http://www.apache.org/licenses/LICENSE-2.0\n#\n# Unless required by applicable law or agreed to in writing, software\n# distributed under the License is distributed on an \"AS IS\" BASIS,\n# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n# See the License for the specific language governing permissions and\n# limitations under the License.\n",
+  "full_terms_url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+  "terms_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+  "scope": "Official Apache2 license terms supplement actual wheel license declaration/header. Not a version-matched upstream source archive or source-to-wheel reproducibility claim.",
+  "version_tag_lookup": "v25.12.19 GitHubref returned404; retained as unknown ratherthan fabricating a sourcehash"
+}

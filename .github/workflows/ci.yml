@@ -1,0 +1,23 @@
+name: Validate
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  native:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Record source and observed runner
+        run: |
+          git rev-parse HEAD
+          uname -m
+          cat /etc/os-release
+          docker version
+      - name: Prepare official artifacts and run offline gates
+        timeout-minutes: 25
+        run: sh scripts/ci.sh

@@ -1,0 +1,12 @@
+# Network preparation is a separate build. The offline Dockerfile only FROMs
+# this completed local image; it never re-executes a network RUN ancestor.
+FROM python@sha256:281d39ff02e3b389401586134ff9e6572954687822a58055ec07a60ded4e0b7f
+COPY requirements-dev.lock /opt/requirements-dev.lock
+RUN python -m pip download --no-cache-dir --only-binary=:all: --require-hashes --dest /opt/wheelhouse -r /opt/requirements-dev.lock && \
+    python -m pip install --no-cache-dir --no-index --find-links=/opt/wheelhouse --require-hashes -r /opt/requirements-dev.lock && \
+    python -m pip check && mkdir -p /work && chown 1000:1000 /work
+COPY --chown=1000:1000 src/local_semantic_atlas/*.py /opt/preparation/local_semantic_atlas/
+ENV HF_HUB_OFFLINE=1 TOKENIZERS_PARALLELISM=false OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 PYTHONDONTWRITEBYTECODE=1
+USER 1000:1000
+WORKDIR /work
+RUN PYTHONPATH=/opt/preparation python -B -m local_semantic_atlas.cli prepare-model --destination /work/model
